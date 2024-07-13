@@ -5,19 +5,19 @@ const data = [
     icon: <HiShieldCheck/>,
     heading: "Best interest rates on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Exercise in the avoidance of being towards it in the pleasure of the pleasure of the eyes towards the eyes in consequence is minimal minimal this temporary work the consequence of this advertising is the lesser thing minimally.",
   },
   {
     icon: <MdCancel />,
     heading: "Prevent unstable prices",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Exercise in the avoidance of being towards it in the pleasure of the pleasure of the eyes towards the eyes in consequence is minimal minimal this temporary work the consequence of this advertising is the lesser thing minimally.",
   },
   {
     icon: <MdAnalytics />,
     heading: "Best price on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+     "Exercise in the avoidance of being towards it in the pleasure of the pleasure of the eyes towards the eyes in consequence is minimal minimal this temporary work the consequence of this advertising is the lesser thing minimally.",
   },
 ];
 export default data;

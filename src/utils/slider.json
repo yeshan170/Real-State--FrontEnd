@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Clearpoint",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "No. 23, Wakwella Road, Galle 80000, Sri Lanka",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "The Heights",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "45, Duplication Road, Colombo 03, Sri Lanka",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "The Elements",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "78, Peradeniya Road, Kandy 20000, Sri Lanka",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Astoria",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "12, Lewis Place, Negombo 11500, Sri Lanka",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Marina Square ",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "56, Stanley Road, Jaffna 40000, Sri Lanka",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Royal Park",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "50, Queen Elizabeth Drive, Nuwara Eliya 22200, Sri Lanka",
     "image": "./r3.png"
   }
 ]
